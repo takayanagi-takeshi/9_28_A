@@ -1,4 +1,4 @@
-// 9月24日からの続き
+// 9月28日からの続き→10月5日に移動
 
 // ターゲットを変数animaTargetsに代入（ここでは３つ）
 let animeTargets = document.querySelectorAll('.animate__animated');
